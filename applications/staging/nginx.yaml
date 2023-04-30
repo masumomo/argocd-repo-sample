@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/aoi1/argocd-repo-sample.git
+    repoURL: https://github.com/masumomo/argocd-repo-sample.git
     targetRevision: main
     path: manifests/staging
   destination:
